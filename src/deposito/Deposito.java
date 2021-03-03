@@ -17,7 +17,7 @@ public class Deposito {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        operativa_cuenta(1000);
+        operativa_cuenta(1500);
     }
 
     public static void operativa_cuenta(float cantidad) {
