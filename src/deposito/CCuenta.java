@@ -10,6 +10,7 @@ package deposito;
 /**
  *
  * @author Samuel
+ * Visto
  */
 public class CCuenta {
 
